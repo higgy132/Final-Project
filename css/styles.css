@@ -66,3 +66,7 @@ header {
 #page {
     background-color: rgb(228, 185, 133);
 }
+
+#resume h4 {
+    color: blue;
+}
